@@ -1,2 +1,3 @@
 first line
 second line in features branch 
+a new in feature1
