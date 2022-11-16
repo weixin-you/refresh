@@ -3,3 +3,4 @@ second line in features branch
 a new in feature1
 
 commit to add new featuer to the main branch
+commit to add a second feaature to the main branch
